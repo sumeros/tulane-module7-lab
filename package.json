@@ -18,5 +18,11 @@
       "default",
       "jest-tulane-reporter"
     ]
-  }
+  },
+  "contributors": [
+    {
+      "name": "Steven Scaffidi",
+      "url": "https://github.com/sscaff1"
+    }
+  ]
 }
