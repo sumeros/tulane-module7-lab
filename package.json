@@ -1,0 +1,22 @@
+{
+  "name": "tulane-module-7-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "jest-tulane-reporter": "^1.0.0"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "jest-tulane-reporter"
+    ]
+  }
+}
